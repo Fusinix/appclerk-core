@@ -1,4 +1,3 @@
-![AppClerk Core Banner](https://appclerk.dev/images/logo-main.png)
 <p align="center">
   <img src="https://appclerk.dev/images/logo-main.png" alt="AppClerk Core Banner" width="400" />
 </p>
