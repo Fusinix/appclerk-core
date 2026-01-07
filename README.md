@@ -151,3 +151,8 @@ The SDK automatically retries failed requests:
 
 MIT
 
+Official documentation: https://appclerk.dev/docs/sdk/core
+
+Appclerk React: https://appclerk.dev/docs/sdk/react
+
+Appclerk React Native/Expo: https://appclerk.dev/docs/sdk/react-native
